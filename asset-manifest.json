@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.8570e718.css",
+    "main.js": "/MyPortfolio/static/js/main.86f33526.js",
+    "static/js/787.1ed0c42c.chunk.js": "/MyPortfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Vartika_Resume.pdf": "/MyPortfolio/static/media/Vartika_Resume.28c5f99a50f27e1f2e71.pdf",
+    "static/media/css.jpg": "/MyPortfolio/static/media/css.68e6ad6c440b11b09ce9.jpg",
+    "static/media/my.jpg": "/MyPortfolio/static/media/my.dba93e559b5d9f1eb611.jpg",
+    "static/media/crud.jpg": "/MyPortfolio/static/media/crud.b13c23f54d0e7c7f2a1a.jpg",
+    "static/media/dashboard.jpg": "/MyPortfolio/static/media/dashboard.67ac1ffa3b5e51b84788.jpg",
+    "static/media/node.jpg": "/MyPortfolio/static/media/node.abfaef34ea49d0c7cd3c.jpg",
+    "static/media/javascript.jpg": "/MyPortfolio/static/media/javascript.062825dbceed44567e91.jpg",
+    "static/media/weather.jpg": "/MyPortfolio/static/media/weather.098b50be53d18a7c1163.jpg",
+    "static/media/bitcoin.jpg": "/MyPortfolio/static/media/bitcoin.2b770a7af3f6bb469af2.jpg",
+    "index.html": "/MyPortfolio/index.html",
+    "main.8570e718.css.map": "/MyPortfolio/static/css/main.8570e718.css.map",
+    "main.86f33526.js.map": "/MyPortfolio/static/js/main.86f33526.js.map",
+    "787.1ed0c42c.chunk.js.map": "/MyPortfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8570e718.css",
+    "static/js/main.86f33526.js"
+  ]
+}
